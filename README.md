@@ -1,2 +1,3 @@
-# SolutionExplorer
- Connecting Nearby People
+#Grocer Sync
+
+Integrate offline and online shopping
